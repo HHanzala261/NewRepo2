@@ -1,2 +1,1 @@
-# NewRepo2
-Tis repository has a redme file.
+Hi its me hanzala welcome me in the world of coding
